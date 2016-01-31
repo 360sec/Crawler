@@ -1,0 +1,22 @@
+[INFO  - 2016-01-28T15:30:06.354Z] GhostDriver - Main - running on port 9342
+[INFO  - 2016-01-28T15:30:07.082Z] Session [0285a600-c5d4-11e5-87b1-85263f7cb278] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-28T15:30:07.082Z] Session [0285a600-c5d4-11e5-87b1-85263f7cb278] - page.customHeaders:  - {}
+[INFO  - 2016-01-28T15:30:07.082Z] Session [0285a600-c5d4-11e5-87b1-85263f7cb278] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.resourceTimeout":"5000"}
+[INFO  - 2016-01-28T15:30:07.082Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0285a600-c5d4-11e5-87b1-85263f7cb278
+[ERROR - 2016-01-28T15:30:11.113Z] Session [0285a600-c5d4-11e5-87b1-85263f7cb278] - page.onError - msg: TypeError: undefined is not an object (evaluating '$.pe.ajax')
+
+  :262 in error
+[ERROR - 2016-01-28T15:30:11.113Z] Session [0285a600-c5d4-11e5-87b1-85263f7cb278] - page.on[INFO  - 2016-01-28T15:33:49.781Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:38:49.785Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:43:49.791Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:48:49.791Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:53:49.804Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:58:49.806Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:59:48.790Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+sSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:55:44.793Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:40:59.827Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:45:59.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:50:59.845Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-01-28T15:55:59.846Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

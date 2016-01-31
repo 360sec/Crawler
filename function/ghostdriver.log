@@ -1,0 +1,20 @@
+[INFO  - 2016-01-26T15:02:48.222Z] GhostDriver - Main - running on port 26592
+[INFO  - 2016-01-26T15:02:48.926Z] Session [dd473a30-c43d-11e5-9b13-07f2cce9fc57] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-01-26T15:02:48.927Z] Session [dd473a30-c43d-11e5-9b13-07f2cce9fc57] - page.customHeaders:  - {}
+[INFO  - 2016-01-26T15:02:48.927Z] Session [dd473a30-c43d-11e5-9b13-07f2cce9fc57] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.resourceTimeout":"5000"}
+[INFO  - 2016-01-26T15:02:48.927Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: dd473a30-c43d-11e5-9b13-07f2cce9fc57
+[ERROR - 2016-01-26T15:02:52.532Z] Session [dd473a30-c43d-11e5-9b13-07f2cce9fc57] - page.onError - msg: TypeError: null is not an object (evaluating 'el.sP=function(x,y){this.style.left=x;this.style.top=y;}')
+
+  :262 in error
+[ERROR - 2016-01-26T15:02:52.532Z] Session [dd473a30-c43d-11e5-9b13-07f2cce9fc57] - page.onError - stack:
+  ml (http://jwcad.ahut.edu.cn/:226)
+  FloatTop (http://jwcad.ahut.edu.cn/:243)
+
+  :262 in error
+[ERROR - 2016-01-26T15:02:52.662Z] Session [dd473a30-c43d-11e5-9b13-07f2cce9fc57] - page.onError - msg: ReferenceError: Can't find variable: m
+
+  :262 in error
+[ERROR - 2016-01-26T15:02:52.662Z] Session [dd473a30-c43d-11e5-9b13-07f2cce9fc57] - page.onError - stack:
+  onload (http://jwcad.ahut.edu.cn/:163)
+
+  :262 in error
