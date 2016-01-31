@@ -15,8 +15,13 @@ urlsimilar实现URL去相似；
 
 Usage：
 crawler.py -u url       "-u url" represent the url you want to crawl
+
 crawler.py -u url -d depth        "-d depth" represent the depth you want to crawl the url 
+
 crawler.py -u url -d depth -m dynamic       "-m dynamic" represent the downloadPageModel of the url
+
 crawler.py -u url -d depth -m dynamic -t threadnum        "-t threadnum" represent the num of running thread
+
 crawler.py -u url -d depth -m dynamic -t threadnum -k keyword       "-k keyword" represent you want to search url that the keyword in the url
+
 eg:crawler.py -u http://www.wooyun.org -d 3 -m dynamic -t 10
