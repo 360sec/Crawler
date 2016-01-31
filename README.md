@@ -1,8 +1,6 @@
 
 CrawlerV1.0
 
-http://www.95sec.com
-
 by 404 Not Found
 
 email:root@95sec.com
