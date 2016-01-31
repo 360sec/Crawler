@@ -1,8 +1,8 @@
 
-# CrawlerV1.0
-#http://www.95sec.com
-#by 404 Not Found
-#email:root@95sec.com
+CrawlerV1.0
+http://www.95sec.com
+by 404 Not Found
+email:root@95sec.com
 
 #--------------------------------------------------------
 该动态爬虫主要采用了
